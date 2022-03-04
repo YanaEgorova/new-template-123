@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'Fredoka Condensed';
+    src: url('../../fonts/FredokaCondensed-Light.eot');
+    src: url('../../fonts/FredokaCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/FredokaCondensed-Light.woff2') format('woff2'),
+        url('../../fonts/FredokaCondensed-Light.woff') format('woff'),
+        url('../../fonts/FredokaCondensed-Light.ttf') format('truetype'),
+        url('../../fonts/FredokaCondensed-Light.svg#FredokaCondensed-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fredoka';
+    src: url('../../fonts/Fredoka-SemiBold.eot');
+    src: url('../../fonts/Fredoka-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Fredoka-SemiBold.woff2') format('woff2'),
+        url('../../fonts/Fredoka-SemiBold.woff') format('woff'),
+        url('../../fonts/Fredoka-SemiBold.ttf') format('truetype'),
+        url('../../fonts/Fredoka-SemiBold.svg#Fredoka-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('../../fonts/LeagueSpartan-SemiBold.eot');
+    src: url('../../fonts/LeagueSpartan-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/LeagueSpartan-SemiBold.woff2') format('woff2'),
+        url('../../fonts/LeagueSpartan-SemiBold.woff') format('woff'),
+        url('../../fonts/LeagueSpartan-SemiBold.ttf') format('truetype'),
+        url('../../fonts/LeagueSpartan-SemiBold.svg#LeagueSpartan-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

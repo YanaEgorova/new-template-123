@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --inactive: rgb(161, 161, 161);
+    --accent-color: red;
+    --checkbox-color: #6699ff;
+
+    --main-text-color: #000;
+
+    
+    --first-brand-color: #eadcd1;
+    --second-brand-color: #e7d5c6;
+    --third-brand-color: #3c403e;
+    --fourth-brand-color:#e94925;
+
+
+    --main-font: 'Fredoka Condensed';
+    --title-font: 'Fredoka';
+    --main-title-font: 'League Spartan';
+    
+    font-size: 62.5%;
+}

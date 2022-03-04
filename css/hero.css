@@ -1,0 +1,45 @@
+.hero__wrapper {
+   background-color: var(--fourth-brand-color);
+   padding: 20rem 0 15rem;
+   position: relative;
+}
+.hero {
+   position: relative;
+}
+.hero-block {
+    background-color: var(--main-bg-color);
+    padding: 3rem 2rem 5rem;
+    width: fit-content;
+    margin: 0 auto;
+}
+.hero-img {
+    display: none;
+}
+
+@media screen and (min-width: 1024px)  {
+    .hero__wrapper::before {
+        background-color: var(--main-bg-color);
+        display: block;
+        content: '';
+        width: 5rem;
+        height: 100%;
+        top: 0;
+        left: 10%;
+        position: absolute;
+    }
+    .hero {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .hero-block {
+        padding: 15rem 6rem 12rem;
+        width: 40%;
+        margin-right: 0;
+    }
+
+    .hero-img {
+        display: block;
+        width: 40%;
+        object-fit: cover;
+    }
+}
